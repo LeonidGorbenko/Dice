@@ -13,10 +13,3 @@ if (randomNumber1 > randomNumber2){
     document.querySelector('h1').innerHTML='Draw!'
 
 }
-
-
-let number_1 = getRandomDigit()
-
-let number_2 = getRandomDigit2()
-
-getName(number_1,number_2)
